@@ -1,6 +1,5 @@
-1_Audio_Toolkit.py
-2_Video_Toolkit.py
-3_Media_Analyzer.py
-4_Frame_Processor.py
-5_Audio_Visualizer.py
-6_Batch_Processor.py
+import streamlit as st
+
+st.title("🎵 Audio Toolkit")
+
+st.write("Audio processing module")
